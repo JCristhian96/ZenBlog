@@ -1,0 +1,925 @@
+[
+{
+    "model": "admin.logentry",
+    "pk": 1,
+    "fields": {
+        "action_time": "2023-05-14T17:47:20.490Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "1",
+        "object_repr": "Tutoriales",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 2,
+    "fields": {
+        "action_time": "2023-05-14T17:48:42.183Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "¿Qué es una plataforma digital y qué tipos existen",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 3,
+    "fields": {
+        "action_time": "2023-05-14T17:52:08.091Z",
+        "user": 1,
+        "content_type": 8,
+        "object_id": "2",
+        "object_repr": "Enseñanza",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 4,
+    "fields": {
+        "action_time": "2023-05-14T17:52:49.248Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "2",
+        "object_repr": "5 técnicas comunes para ayudar a los estudiantes c",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 5,
+    "fields": {
+        "action_time": "2023-05-14T17:56:52.645Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "3",
+        "object_repr": "¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 6,
+    "fields": {
+        "action_time": "2023-05-14T17:57:05.571Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "4",
+        "object_repr": "2 ¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 7,
+    "fields": {
+        "action_time": "2023-05-14T17:57:09.664Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "5",
+        "object_repr": "3 ¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 8,
+    "fields": {
+        "action_time": "2023-05-14T17:57:13.979Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "6",
+        "object_repr": "5 ¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 1,
+        "change_message": "[{\"added\": {}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 9,
+    "fields": {
+        "action_time": "2023-05-14T18:27:30.475Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Titulo\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 10,
+    "fields": {
+        "action_time": "2023-05-14T18:30:25.210Z",
+        "user": 1,
+        "content_type": 7,
+        "object_id": "1",
+        "object_repr": "¿Qué es una plataforma digital y qué tipos existen?",
+        "action_flag": 2,
+        "change_message": "[{\"changed\": {\"fields\": [\"Descripcion\"]}}]"
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 11,
+    "fields": {
+        "action_time": "2023-05-14T23:28:25.531Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "3",
+        "object_repr": "Favorite object (3)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 12,
+    "fields": {
+        "action_time": "2023-05-14T23:28:25.625Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "2",
+        "object_repr": "Favorite object (2)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 13,
+    "fields": {
+        "action_time": "2023-05-14T23:28:25.688Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "1",
+        "object_repr": "Favorite object (1)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 14,
+    "fields": {
+        "action_time": "2023-05-14T23:30:06.150Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "5",
+        "object_repr": "Favorite object (5)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "admin.logentry",
+    "pk": 15,
+    "fields": {
+        "action_time": "2023-05-14T23:30:06.245Z",
+        "user": 1,
+        "content_type": 12,
+        "object_id": "4",
+        "object_repr": "Favorite object (4)",
+        "action_flag": 3,
+        "change_message": ""
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 1,
+    "fields": {
+        "name": "Can add log entry",
+        "content_type": 1,
+        "codename": "add_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 2,
+    "fields": {
+        "name": "Can change log entry",
+        "content_type": 1,
+        "codename": "change_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 3,
+    "fields": {
+        "name": "Can delete log entry",
+        "content_type": 1,
+        "codename": "delete_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 4,
+    "fields": {
+        "name": "Can view log entry",
+        "content_type": 1,
+        "codename": "view_logentry"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 5,
+    "fields": {
+        "name": "Can add permission",
+        "content_type": 2,
+        "codename": "add_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 6,
+    "fields": {
+        "name": "Can change permission",
+        "content_type": 2,
+        "codename": "change_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 7,
+    "fields": {
+        "name": "Can delete permission",
+        "content_type": 2,
+        "codename": "delete_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 8,
+    "fields": {
+        "name": "Can view permission",
+        "content_type": 2,
+        "codename": "view_permission"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 9,
+    "fields": {
+        "name": "Can add group",
+        "content_type": 3,
+        "codename": "add_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 10,
+    "fields": {
+        "name": "Can change group",
+        "content_type": 3,
+        "codename": "change_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 11,
+    "fields": {
+        "name": "Can delete group",
+        "content_type": 3,
+        "codename": "delete_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 12,
+    "fields": {
+        "name": "Can view group",
+        "content_type": 3,
+        "codename": "view_group"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 13,
+    "fields": {
+        "name": "Can add user",
+        "content_type": 4,
+        "codename": "add_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 14,
+    "fields": {
+        "name": "Can change user",
+        "content_type": 4,
+        "codename": "change_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 15,
+    "fields": {
+        "name": "Can delete user",
+        "content_type": 4,
+        "codename": "delete_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 16,
+    "fields": {
+        "name": "Can view user",
+        "content_type": 4,
+        "codename": "view_user"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 17,
+    "fields": {
+        "name": "Can add content type",
+        "content_type": 5,
+        "codename": "add_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 18,
+    "fields": {
+        "name": "Can change content type",
+        "content_type": 5,
+        "codename": "change_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 19,
+    "fields": {
+        "name": "Can delete content type",
+        "content_type": 5,
+        "codename": "delete_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 20,
+    "fields": {
+        "name": "Can view content type",
+        "content_type": 5,
+        "codename": "view_contenttype"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 21,
+    "fields": {
+        "name": "Can add session",
+        "content_type": 6,
+        "codename": "add_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 22,
+    "fields": {
+        "name": "Can change session",
+        "content_type": 6,
+        "codename": "change_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 23,
+    "fields": {
+        "name": "Can delete session",
+        "content_type": 6,
+        "codename": "delete_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 24,
+    "fields": {
+        "name": "Can view session",
+        "content_type": 6,
+        "codename": "view_session"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 25,
+    "fields": {
+        "name": "Can add Post",
+        "content_type": 7,
+        "codename": "add_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 26,
+    "fields": {
+        "name": "Can change Post",
+        "content_type": 7,
+        "codename": "change_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 27,
+    "fields": {
+        "name": "Can delete Post",
+        "content_type": 7,
+        "codename": "delete_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 28,
+    "fields": {
+        "name": "Can view Post",
+        "content_type": 7,
+        "codename": "view_post"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 29,
+    "fields": {
+        "name": "Can add Category",
+        "content_type": 8,
+        "codename": "add_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 30,
+    "fields": {
+        "name": "Can change Category",
+        "content_type": 8,
+        "codename": "change_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 31,
+    "fields": {
+        "name": "Can delete Category",
+        "content_type": 8,
+        "codename": "delete_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 32,
+    "fields": {
+        "name": "Can view Category",
+        "content_type": 8,
+        "codename": "view_category"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 33,
+    "fields": {
+        "name": "Can add source",
+        "content_type": 9,
+        "codename": "add_source"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 34,
+    "fields": {
+        "name": "Can change source",
+        "content_type": 9,
+        "codename": "change_source"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 35,
+    "fields": {
+        "name": "Can delete source",
+        "content_type": 9,
+        "codename": "delete_source"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 36,
+    "fields": {
+        "name": "Can view source",
+        "content_type": 9,
+        "codename": "view_source"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 37,
+    "fields": {
+        "name": "Can add thumbnail",
+        "content_type": 10,
+        "codename": "add_thumbnail"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 38,
+    "fields": {
+        "name": "Can change thumbnail",
+        "content_type": 10,
+        "codename": "change_thumbnail"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 39,
+    "fields": {
+        "name": "Can delete thumbnail",
+        "content_type": 10,
+        "codename": "delete_thumbnail"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 40,
+    "fields": {
+        "name": "Can view thumbnail",
+        "content_type": 10,
+        "codename": "view_thumbnail"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 41,
+    "fields": {
+        "name": "Can add thumbnail dimensions",
+        "content_type": 11,
+        "codename": "add_thumbnaildimensions"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 42,
+    "fields": {
+        "name": "Can change thumbnail dimensions",
+        "content_type": 11,
+        "codename": "change_thumbnaildimensions"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 43,
+    "fields": {
+        "name": "Can delete thumbnail dimensions",
+        "content_type": 11,
+        "codename": "delete_thumbnaildimensions"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 44,
+    "fields": {
+        "name": "Can view thumbnail dimensions",
+        "content_type": 11,
+        "codename": "view_thumbnaildimensions"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 45,
+    "fields": {
+        "name": "Can add Favorite",
+        "content_type": 12,
+        "codename": "add_favorites"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 46,
+    "fields": {
+        "name": "Can change Favorite",
+        "content_type": 12,
+        "codename": "change_favorites"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 47,
+    "fields": {
+        "name": "Can delete Favorite",
+        "content_type": 12,
+        "codename": "delete_favorites"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 48,
+    "fields": {
+        "name": "Can view Favorite",
+        "content_type": 12,
+        "codename": "view_favorites"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 49,
+    "fields": {
+        "name": "Can add Favorite",
+        "content_type": 12,
+        "codename": "add_favorite"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 50,
+    "fields": {
+        "name": "Can change Favorite",
+        "content_type": 12,
+        "codename": "change_favorite"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 51,
+    "fields": {
+        "name": "Can delete Favorite",
+        "content_type": 12,
+        "codename": "delete_favorite"
+    }
+},
+{
+    "model": "auth.permission",
+    "pk": 52,
+    "fields": {
+        "name": "Can view Favorite",
+        "content_type": 12,
+        "codename": "view_favorite"
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 1,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$yMAGX7gdhIUo6saXbXmkTK$IAK3zi78shfKQq3AYeYm6+dGMTbkKG+ytVFUbtIRehk=",
+        "last_login": "2023-05-14T23:37:08.032Z",
+        "is_superuser": true,
+        "username": "w10",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-05-14T16:31:02.612Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "auth.user",
+    "pk": 2,
+    "fields": {
+        "password": "pbkdf2_sha256$260000$G02hJrLtxCazeMIw2AOdqi$5txAlHNjOxnMqAfDVP3vsAsKIvsMzAO7d9TNSutz3l8=",
+        "last_login": "2023-05-15T00:18:26.548Z",
+        "is_superuser": true,
+        "username": "demo",
+        "first_name": "",
+        "last_name": "",
+        "email": "",
+        "is_staff": true,
+        "is_active": true,
+        "date_joined": "2023-05-14T23:37:32.340Z",
+        "groups": [],
+        "user_permissions": []
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 1,
+    "fields": {
+        "app_label": "admin",
+        "model": "logentry"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 2,
+    "fields": {
+        "app_label": "auth",
+        "model": "permission"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 3,
+    "fields": {
+        "app_label": "auth",
+        "model": "group"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 4,
+    "fields": {
+        "app_label": "auth",
+        "model": "user"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 5,
+    "fields": {
+        "app_label": "contenttypes",
+        "model": "contenttype"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 6,
+    "fields": {
+        "app_label": "sessions",
+        "model": "session"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 7,
+    "fields": {
+        "app_label": "core",
+        "model": "post"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 8,
+    "fields": {
+        "app_label": "core",
+        "model": "category"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 9,
+    "fields": {
+        "app_label": "easy_thumbnails",
+        "model": "source"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 10,
+    "fields": {
+        "app_label": "easy_thumbnails",
+        "model": "thumbnail"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 11,
+    "fields": {
+        "app_label": "easy_thumbnails",
+        "model": "thumbnaildimensions"
+    }
+},
+{
+    "model": "contenttypes.contenttype",
+    "pk": 12,
+    "fields": {
+        "app_label": "core",
+        "model": "favorite"
+    }
+},
+{
+    "model": "core.category",
+    "pk": 1,
+    "fields": {
+        "title": "Tutoriales"
+    }
+},
+{
+    "model": "core.category",
+    "pk": 2,
+    "fields": {
+        "title": "Enseñanza"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 1,
+    "fields": {
+        "title": "¿Qué es una plataforma digital y qué tipos existen?",
+        "category": 1,
+        "image": "images/Plataformas-digitales.jpeg",
+        "content": "<div id=\"contenedor\" class=\"story-contents__content  \" data-index=\"0\">\r\n<div style=\"min-height: 172px;\">\r\n<section>\r\n<p class=\"story-contents__font-paragraph \"><strong>Si con la aparici&oacute;n del </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>Internet</strong></a><strong> muchas plataformas digitales empezaron el despertar de un interesante mercado de soluciones en l&iacute;nea, con el estallido de la </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>pandemia</strong></a><strong>, su utilidad cobr&oacute; m&aacute;s importancia y, hoy en d&iacute;a, son muchos los espacios virtuales que ayudaron a lograr una mejor convivencia con la educaci&oacute;n o el trabajo a distancia.</strong></p>\r\n<div class=\"content_gpt_caja3\">\r\n<div id=\"gpt_caja3\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja3\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<blockquote class=\"story-contents__blockquote\"><strong>M&Aacute;S INFORMACI&Oacute;N: </strong><a href=\"https://gestion.pe/economia/empresas/ocho-de-cada-diez-peruanos-se-conectan-a-internet-desde-un-celular-noticia/\"><strong>Ocho de cada diez peruanos se conectan a internet desde un celular</strong></a></blockquote>\r\n<p class=\"story-contents__font-paragraph \">Y es que las plataformas digitales o virtuales, como se&ntilde;alan en el documento &ldquo;Plataformas digitales y competencia&rdquo; desarrollado por la OECD, son <em>&ldquo;infraestructuras digitales que posibilitan la interacci&oacute;n entre dos o m&aacute;s grupos o partes&rdquo;</em>, por lo que <em>&ldquo;se posicionan como intermediarios que re&uacute;nen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos f&iacute;sicos&rdquo;</em>.</p>\r\n<p class=\"story-contents__font-paragraph \"><strong>TIPOS DE PLATAFORMAS</strong></p>\r\n<div class=\"content_gpt_inline\">\r\n<div id=\"gpt_inline\" data-ads-name=\"/28253241/gestion/web/post/tendencias/inline\" data-ads-dimensions=\"[[1,1]]\" data-bloque=\"3\" data-ads-dimensions-m=\"[[1,1]]\"></div>\r\n</div>\r\n<p class=\"story-contents__font-paragraph \">Bajo esa definici&oacute;n, algunos ejemplos de plataformas digitales son las redes sociales, los sitios web de comercio electr&oacute;nico o e-commerce, los motores de b&uacute;squeda, entre otros, pero en el 2015, el Parlamento Europeo identific&oacute; tres principales modelos de negocio de las plataformas digitales:</p>\r\n<h3 class=\"story-contents__header\"><strong>1. Modelo por suscripci&oacute;n</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios pagan por la prestaci&oacute;n de un servicio. Por ejemplo, los usuarios de Netflix, Disney+, HBO Max o Spotify pagan una cuota &ndash;mensual o anual&ndash; para acceder a pel&iacute;culas o m&uacute;sica.</p>\r\n<div class=\"content_gpt_caja4\">\r\n<div id=\"gpt_caja4\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja4\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>2. Modelo con publicidad</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios acceden al servicio de manera gratuita debido a que la plataforma se mantiene con los ingresos que genera la publicidad. Youtube y Facebook son un ejemplo, al igual que otras plataformas en las que los usuarios pueden consultar los contenidos en forma gratuita pero est&aacute;n expuestos a la publicidad.</p>\r\n<figure><picture><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 360px)\" data-srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 639px)\" data-srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><img class=\"lazy story-contents__image w-full o-cover loaded\" style=\"--aspect-ratio: 1200/650;\" src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" alt=\"Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)\" width=\"1200\" height=\"650\" data-src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /></picture>\r\n<figcaption class=\"story-contents__caption\">\r\n<div>Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)</div>\r\n</figcaption>\r\n</figure>\r\n<h3 class=\"story-contents__header\"><strong>3. Modelo con acceso</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los creadores de contenido o de aplicaciones les pagan a las plataformas para llegar a los usuarios finales. Por ejemplo, App Store es una tienda digital donde los creadores pueden colocar sus aplicaciones para llegar a los usuarios de iOS, y lo mismo sucede con Play Store o Google Play</p>\r\n<p class=\"story-contents__font-paragraph \">Pero, debido a que las necesidades de las personas son diferentes y necesitan ser satisfechas desde distintos frentes, tambi&eacute;n existen otros tipos de clasificaciones para las plataformas digitales. As&iacute; tenemos:</p>\r\n<h3 class=\"story-contents__header\"><strong>4. Plataformas educativas</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Conocidas tambi&eacute;n como e-learning, est&aacute;n enfocadas en la educaci&oacute;n a distancia, tanto para escolares como para universitarios, aunque tambi&eacute;n est&aacute;n las de posgrado. Ejemplo de ellas son Crehana, Campus Romeroo el mismo BlackBoard.</p>\r\n<div class=\"content_gpt_caja5\">\r\n<div id=\"gpt_caja5\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja5\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"4\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>5. Plataformas de comercio electr&oacute;nico</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">La explosi&oacute;n del e-commerce a ra&iacute;z de la pandemia volc&oacute; a m&aacute;s compradores a las plataformas que ya exist&iacute;an como Linio, aunque tambi&eacute;n abri&oacute; paso a otras nuevas como Platanitos que pudo mirar m&aacute;s all&aacute; de los zapatos gracias a la virtualidad.</p>\r\n<h3 class=\"story-contents__header\"><strong>6. Plataformas bancarias</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Las entidades financieras han logrado establecer interesantes modelos de plataformas digitales que hoy permiten realizar diferentes operaciones sin salir de casa.</p>\r\n<h3 class=\"story-contents__header\"><strong>7. Plataformas de pago</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Al igual que las entidades financieras, las plataformas de pago como FPay o <a href=\"https://pagalo.pe/\" target=\"_blank\" rel=\"noopener\">Pagalo.pe</a> tambi&eacute;n permitieron que la virtualidad contribuya a facilitar diferentes operaciones monetarias que antes tomaban tiempo y dinero.</p>\r\n</section>\r\n</div>\r\n</div>",
+        "description": "Y es que las plataformas digitales o virtuales, como señalan en el documento “Plataformas digitales y competencia” desarrollado por la OECD, son “infraestructuras digitales que posibilitan la interacción entre dos o más grupos o partes”, por lo que “se posicionan como intermediarios que reúnen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos físicos”.",
+        "created": "2023-05-14T17:44:42Z"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 2,
+    "fields": {
+        "title": "5 técnicas comunes para ayudar a los estudiantes c",
+        "category": 2,
+        "image": "images/ayudaG.jpg",
+        "content": "<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Los maestros saben que los estudiantes cuentan con una gran variedad de habilidades, y tratan de encontrar maneras de satisfacer las necesidades de todos los estudiantes, incluidos aquellos que piensan y aprenden de manera diferente. Estos son cinco m&eacute;todos comunes de ense&ntilde;anza.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">&nbsp;</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print \" data-testid=\"article-heading-2\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<h2 class=\"f-md-7 lh-condensed my-sm-4 mt-md-5\">1. Instrucci&oacute;n diferenciada</h2>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Con este enfoque, los maestros cambian lo que los estudiantes necesitan aprender, c&oacute;mo lo aprender&aacute;n y c&oacute;mo transmitirles el material. Cuando un estudiante tiene dificultades en un &aacute;rea, los maestros crean un plan que incluye practicar m&aacute;s, instrucciones paso a paso y tareas especiales. Lea m&aacute;s sobre la <a class=\"primary-link\" href=\"https://www.understood.org/es-mx/articles/differentiated-instruction-what-you-need-to-know\" data-testid=\"articles-primarylink\">instrucci&oacute;n diferenciada</a>.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid my-sm-6\">\r\n<div class=\"mx-sm-n5 grid-col-sm-12 grid-col-md-10 grid-start-md-2 grid-col-lg-6 grid-start-lg-4\">\r\n<div class=\"sc-iUKqMP eRIQZv sc-JkixQ cYAKlG container grid grid-gap\">\r\n<div class=\"grid-col-sm-12 grid-col-lg-10 grid-start-lg-2\">\r\n<div>&nbsp;</div>\r\n<h2 class=\"sc-gGPzkF NYOlv\">&iquest;Podemos ayudarlo a encontrar lo que est&aacute; buscando?</h2>\r\n<p class=\"sc-dkQkyq hoUioT\">Complete los men&uacute;s desplegables y le ofreceremos contenido especialmente para usted.</p>\r\n<div class=\"sc-jivBlf edEHyV\">\r\n<div class=\"sc-iWVNaa ilBpVu\" data-testid=\"madlib-container\">Soy <span class=\"sc-kmQMED heMKFW\"><span id=\"16bc6d68-2610-4e96-b283-01cfd76596dd_button\" class=\"sc-cvZCdy kzzmUv\" tabindex=\"0\" role=\"button\" data-testid=\"madlib-roles\" aria-labelledby=\"undefined 16bc6d68-2610-4e96-b283-01cfd76596dd_button\" aria-haspopup=\"listbox\" aria-expanded=\"false\">&nbsp;<span style=\"white-space: normal;\">seleccionar rol</span>&nbsp;</span></span></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<p>y quisiera informaci&oacute;n sobre</p>\r\n<div data-testid=\"modal\">&nbsp;</div>\r\n<p><span class=\"p-sm-relative\"><span class=\"sc-jKTccl BcbI\" tabindex=\"0\" role=\"button\" data-testid=\"la-distracci&oacute;n\">&nbsp;<span style=\"white-space: normal; position: relative;\">la distracci&oacute;n</span>&nbsp;</span></span> para un <span class=\"sc-kmQMED heMKFW\"><span id=\"d8eb61a7-24f8-432e-b6f1-0e1638e3b0bb_button\" class=\"sc-cvZCdy kzzmUv\" tabindex=\"0\" role=\"button\" data-testid=\"madlib-age\" aria-labelledby=\"undefined d8eb61a7-24f8-432e-b6f1-0e1638e3b0bb_button\" aria-haspopup=\"listbox\" aria-expanded=\"false\">&nbsp;<span style=\"white-space: normal;\">ni&ntilde;o peque&ntilde;o</span>&nbsp;</span></span></p>\r\n<div class=\"container grid my-sm-6\">\r\n<div class=\"mx-sm-n5 grid-col-sm-12 grid-col-md-10 grid-start-md-2 grid-col-lg-6 grid-start-lg-4\">\r\n<div class=\"sc-iUKqMP eRIQZv sc-JkixQ cYAKlG container grid grid-gap\">\r\n<div class=\"grid-col-sm-12 grid-col-lg-10 grid-start-lg-2\">\r\n<div class=\"sc-jivBlf edEHyV\">\r\n<div class=\"sc-iWVNaa ilBpVu\" data-testid=\"madlib-container\">.</div>\r\n</div>\r\n<div class=\"sc-hYQoXb fPZIAi\"><a class=\"sc-crHmcD eZuBau\" href=\"https://www.understood.org/hub/es-mx\" data-testid=\"madlib-cta\">Comience su recorrido</a></div>\r\n</div>\r\n</div>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print \" data-testid=\"article-heading-2\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<h2 class=\"f-md-7 lh-condensed my-sm-4 mt-md-5\">2. Andamios de conocimiento</h2>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Este es un m&eacute;todo que divide el aprendizaje en partes m&aacute;s peque&ntilde;as. Las partes siguen un orden l&oacute;gico y apuntan hacia una meta clara. Los maestros crean un puente conectando lo que los estudiantes ya saben y lo que no pueden hacer por ellos mismos. Estos puentes son conocidos como &ldquo;andamios&rdquo;. Pueden incluir gr&aacute;ficos, dibujos y tarjetas con notas.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">A menudo, los maestros usan este m&eacute;todo presentando un modelo de trabajo de alta calidad antes de pedir a los estudiantes que trabajen en el suyo. Y de la misma manera que cuando se construye un edificio, los andamios se remueven cuando ya no se necesitan.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print \" data-testid=\"article-heading-2\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<h2 class=\"f-md-7 lh-condensed my-sm-4 mt-md-5\">3. Organizaci&oacute;n gr&aacute;fica</h2>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">En este m&eacute;todo, el maestro hace un dibujo para organizar pensamientos e ideas. La organizaci&oacute;n gr&aacute;fica puede ayudar a los estudiantes m&aacute;s j&oacute;venes en actividades como identificar los personajes en una historia que hayan le&iacute;do. Tambi&eacute;n puede ayudarlos a planear y organizar el cuento que escribir&aacute;n. Los estudiantes mayores pueden &ldquo;hacer un mapa&rdquo; hist&oacute;rico con los eventos que desencadenaron la Segunda Guerra Mundial, por ejemplo, o comparar y contrastar personas y temas.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print \" data-testid=\"article-heading-2\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<h2 class=\"f-md-7 lh-condensed my-sm-4 mt-md-5\">4. Mnemotecnia</h2>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Los estudiantes usan frases especiales para ayudarse a recordar informaci&oacute;n. Por ejemplo: &ldquo;<strong>P</strong>lease <strong>E</strong>xcuse <strong>M</strong>y <strong>D</strong>ear <strong>A</strong>unt <strong>S</strong>ally&rdquo; se usa muy seguido para recordar el orden de las operaciones matem&aacute;ticas: <strong>P</strong>arentheses, <strong>E</strong>xponents, <strong>M</strong>ultiply, <strong>D</strong>ivide, <strong>A</strong>dd and <strong>S</strong>ubtract (par&eacute;ntesis, exponentes, multiplicaci&oacute;n, suma y divisi&oacute;n).</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Esta estrategia tambi&eacute;n puede ayudar a ampliar el vocabulario. Por ejemplo, un ni&ntilde;o puede aprender el nombre cient&iacute;fico del gato, <em>Felis catus</em>, usando <em>feliz</em> como la palabra clave junto a la foto de un gato jugando.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print \" data-testid=\"article-heading-2\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<h2 class=\"f-md-7 lh-condensed my-sm-4 mt-md-5\">5. Instrucci&oacute;n multisensorial</h2>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Este m&eacute;todo conecta lo que los estudiantes ven, lo que escuchan, c&oacute;mo se mueven y lo que sienten. Cuando los estudiantes aprenden a usar todos sus sentidos recuerdan mejor. Los maestros de matem&aacute;ticas pueden usar bloques y fichas de doble cara para que los estudiantes aprendan a trav&eacute;s del tacto. Dibujar puede ayudar a los estudiantes a <a class=\"primary-link\" href=\"https://www.understood.org/es-mx/articles/7-ways-to-improve-vocabulary\" data-testid=\"articles-primarylink\">ampliar su vocabulario</a>, aprendiendo el significado de la palabra y luego dibuj&aacute;ndola.</p>\r\n</div>\r\n</div>\r\n<div class=\"container grid d-block-print\" data-testid=\"article-paragraph\">\r\n<div class=\"grid-col-sm-12 grid-start-md-2 grid-col-md-10 grid-start-lg-4 grid-col-lg-6\">\r\n<p class=\"mb-sm-4\">Cada ni&ntilde;o aprende de manera diferente. Los maestros usar&aacute;n m&eacute;todos creativos para ense&ntilde;ar a su hijo y a los estudiantes a su alrededor, para que todos aprendan igual.</p>\r\n</div>\r\n</div>",
+        "description": null,
+        "created": "2023-05-14T17:51:02Z"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 3,
+    "fields": {
+        "title": "¿Qué es una plataforma digital y qué tipos existen?",
+        "category": 1,
+        "image": "",
+        "content": "<div id=\"contenedor\" class=\"story-contents__content  \" data-index=\"0\">\r\n<div style=\"min-height: 172px;\">\r\n<section>\r\n<p class=\"story-contents__font-paragraph \"><strong>Si con la aparici&oacute;n del </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>Internet</strong></a><strong> muchas plataformas digitales empezaron el despertar de un interesante mercado de soluciones en l&iacute;nea, con el estallido de la </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>pandemia</strong></a><strong>, su utilidad cobr&oacute; m&aacute;s importancia y, hoy en d&iacute;a, son muchos los espacios virtuales que ayudaron a lograr una mejor convivencia con la educaci&oacute;n o el trabajo a distancia.</strong></p>\r\n<div class=\"content_gpt_caja3\">\r\n<div id=\"gpt_caja3\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja3\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<blockquote class=\"story-contents__blockquote\"><strong>M&Aacute;S INFORMACI&Oacute;N: </strong><a href=\"https://gestion.pe/economia/empresas/ocho-de-cada-diez-peruanos-se-conectan-a-internet-desde-un-celular-noticia/\"><strong>Ocho de cada diez peruanos se conectan a internet desde un celular</strong></a></blockquote>\r\n<p class=\"story-contents__font-paragraph \">Y es que las plataformas digitales o virtuales, como se&ntilde;alan en el documento &ldquo;Plataformas digitales y competencia&rdquo; desarrollado por la OECD, son <em>&ldquo;infraestructuras digitales que posibilitan la interacci&oacute;n entre dos o m&aacute;s grupos o partes&rdquo;</em>, por lo que <em>&ldquo;se posicionan como intermediarios que re&uacute;nen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos f&iacute;sicos&rdquo;</em>.</p>\r\n<p class=\"story-contents__font-paragraph \"><strong>TIPOS DE PLATAFORMAS</strong></p>\r\n<div class=\"content_gpt_inline\">\r\n<div id=\"gpt_inline\" data-ads-name=\"/28253241/gestion/web/post/tendencias/inline\" data-ads-dimensions=\"[[1,1]]\" data-bloque=\"3\" data-ads-dimensions-m=\"[[1,1]]\"></div>\r\n</div>\r\n<p class=\"story-contents__font-paragraph \">Bajo esa definici&oacute;n, algunos ejemplos de plataformas digitales son las redes sociales, los sitios web de comercio electr&oacute;nico o e-commerce, los motores de b&uacute;squeda, entre otros, pero en el 2015, el Parlamento Europeo identific&oacute; tres principales modelos de negocio de las plataformas digitales:</p>\r\n<h3 class=\"story-contents__header\"><strong>1. Modelo por suscripci&oacute;n</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios pagan por la prestaci&oacute;n de un servicio. Por ejemplo, los usuarios de Netflix, Disney+, HBO Max o Spotify pagan una cuota &ndash;mensual o anual&ndash; para acceder a pel&iacute;culas o m&uacute;sica.</p>\r\n<div class=\"content_gpt_caja4\">\r\n<div id=\"gpt_caja4\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja4\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>2. Modelo con publicidad</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios acceden al servicio de manera gratuita debido a que la plataforma se mantiene con los ingresos que genera la publicidad. Youtube y Facebook son un ejemplo, al igual que otras plataformas en las que los usuarios pueden consultar los contenidos en forma gratuita pero est&aacute;n expuestos a la publicidad.</p>\r\n<figure><picture><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 360px)\" data-srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 639px)\" data-srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><img class=\"lazy story-contents__image w-full o-cover loaded\" style=\"--aspect-ratio: 1200/650;\" src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" alt=\"Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)\" width=\"1200\" height=\"650\" data-src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /></picture>\r\n<figcaption class=\"story-contents__caption\">\r\n<div>Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)</div>\r\n</figcaption>\r\n</figure>\r\n<h3 class=\"story-contents__header\"><strong>3. Modelo con acceso</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los creadores de contenido o de aplicaciones les pagan a las plataformas para llegar a los usuarios finales. Por ejemplo, App Store es una tienda digital donde los creadores pueden colocar sus aplicaciones para llegar a los usuarios de iOS, y lo mismo sucede con Play Store o Google Play</p>\r\n<p class=\"story-contents__font-paragraph \">Pero, debido a que las necesidades de las personas son diferentes y necesitan ser satisfechas desde distintos frentes, tambi&eacute;n existen otros tipos de clasificaciones para las plataformas digitales. As&iacute; tenemos:</p>\r\n<h3 class=\"story-contents__header\"><strong>4. Plataformas educativas</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Conocidas tambi&eacute;n como e-learning, est&aacute;n enfocadas en la educaci&oacute;n a distancia, tanto para escolares como para universitarios, aunque tambi&eacute;n est&aacute;n las de posgrado. Ejemplo de ellas son Crehana, Campus Romeroo el mismo BlackBoard.</p>\r\n<div class=\"content_gpt_caja5\">\r\n<div id=\"gpt_caja5\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja5\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"4\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>5. Plataformas de comercio electr&oacute;nico</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">La explosi&oacute;n del e-commerce a ra&iacute;z de la pandemia volc&oacute; a m&aacute;s compradores a las plataformas que ya exist&iacute;an como Linio, aunque tambi&eacute;n abri&oacute; paso a otras nuevas como Platanitos que pudo mirar m&aacute;s all&aacute; de los zapatos gracias a la virtualidad.</p>\r\n<h3 class=\"story-contents__header\"><strong>6. Plataformas bancarias</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Las entidades financieras han logrado establecer interesantes modelos de plataformas digitales que hoy permiten realizar diferentes operaciones sin salir de casa.</p>\r\n<h3 class=\"story-contents__header\"><strong>7. Plataformas de pago</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Al igual que las entidades financieras, las plataformas de pago como FPay o <a href=\"https://pagalo.pe/\" target=\"_blank\" rel=\"noopener\">Pagalo.pe</a> tambi&eacute;n permitieron que la virtualidad contribuya a facilitar diferentes operaciones monetarias que antes tomaban tiempo y dinero.</p>\r\n</section>\r\n</div>\r\n</div>",
+        "description": null,
+        "created": "2023-05-14T17:44:42Z"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 4,
+    "fields": {
+        "title": "2 ¿Qué es una plataforma digital y qué tipos existen?",
+        "category": 1,
+        "image": "",
+        "content": "<div id=\"contenedor\" class=\"story-contents__content  \" data-index=\"0\">\r\n<div style=\"min-height: 172px;\">\r\n<section>\r\n<p class=\"story-contents__font-paragraph \"><strong>Si con la aparici&oacute;n del </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>Internet</strong></a><strong> muchas plataformas digitales empezaron el despertar de un interesante mercado de soluciones en l&iacute;nea, con el estallido de la </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>pandemia</strong></a><strong>, su utilidad cobr&oacute; m&aacute;s importancia y, hoy en d&iacute;a, son muchos los espacios virtuales que ayudaron a lograr una mejor convivencia con la educaci&oacute;n o el trabajo a distancia.</strong></p>\r\n<div class=\"content_gpt_caja3\">\r\n<div id=\"gpt_caja3\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja3\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<blockquote class=\"story-contents__blockquote\"><strong>M&Aacute;S INFORMACI&Oacute;N: </strong><a href=\"https://gestion.pe/economia/empresas/ocho-de-cada-diez-peruanos-se-conectan-a-internet-desde-un-celular-noticia/\"><strong>Ocho de cada diez peruanos se conectan a internet desde un celular</strong></a></blockquote>\r\n<p class=\"story-contents__font-paragraph \">Y es que las plataformas digitales o virtuales, como se&ntilde;alan en el documento &ldquo;Plataformas digitales y competencia&rdquo; desarrollado por la OECD, son <em>&ldquo;infraestructuras digitales que posibilitan la interacci&oacute;n entre dos o m&aacute;s grupos o partes&rdquo;</em>, por lo que <em>&ldquo;se posicionan como intermediarios que re&uacute;nen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos f&iacute;sicos&rdquo;</em>.</p>\r\n<p class=\"story-contents__font-paragraph \"><strong>TIPOS DE PLATAFORMAS</strong></p>\r\n<div class=\"content_gpt_inline\">\r\n<div id=\"gpt_inline\" data-ads-name=\"/28253241/gestion/web/post/tendencias/inline\" data-ads-dimensions=\"[[1,1]]\" data-bloque=\"3\" data-ads-dimensions-m=\"[[1,1]]\"></div>\r\n</div>\r\n<p class=\"story-contents__font-paragraph \">Bajo esa definici&oacute;n, algunos ejemplos de plataformas digitales son las redes sociales, los sitios web de comercio electr&oacute;nico o e-commerce, los motores de b&uacute;squeda, entre otros, pero en el 2015, el Parlamento Europeo identific&oacute; tres principales modelos de negocio de las plataformas digitales:</p>\r\n<h3 class=\"story-contents__header\"><strong>1. Modelo por suscripci&oacute;n</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios pagan por la prestaci&oacute;n de un servicio. Por ejemplo, los usuarios de Netflix, Disney+, HBO Max o Spotify pagan una cuota &ndash;mensual o anual&ndash; para acceder a pel&iacute;culas o m&uacute;sica.</p>\r\n<div class=\"content_gpt_caja4\">\r\n<div id=\"gpt_caja4\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja4\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>2. Modelo con publicidad</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios acceden al servicio de manera gratuita debido a que la plataforma se mantiene con los ingresos que genera la publicidad. Youtube y Facebook son un ejemplo, al igual que otras plataformas en las que los usuarios pueden consultar los contenidos en forma gratuita pero est&aacute;n expuestos a la publicidad.</p>\r\n<figure><picture><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 360px)\" data-srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 639px)\" data-srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><img class=\"lazy story-contents__image w-full o-cover loaded\" style=\"--aspect-ratio: 1200/650;\" src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" alt=\"Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)\" width=\"1200\" height=\"650\" data-src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /></picture>\r\n<figcaption class=\"story-contents__caption\">\r\n<div>Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)</div>\r\n</figcaption>\r\n</figure>\r\n<h3 class=\"story-contents__header\"><strong>3. Modelo con acceso</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los creadores de contenido o de aplicaciones les pagan a las plataformas para llegar a los usuarios finales. Por ejemplo, App Store es una tienda digital donde los creadores pueden colocar sus aplicaciones para llegar a los usuarios de iOS, y lo mismo sucede con Play Store o Google Play</p>\r\n<p class=\"story-contents__font-paragraph \">Pero, debido a que las necesidades de las personas son diferentes y necesitan ser satisfechas desde distintos frentes, tambi&eacute;n existen otros tipos de clasificaciones para las plataformas digitales. As&iacute; tenemos:</p>\r\n<h3 class=\"story-contents__header\"><strong>4. Plataformas educativas</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Conocidas tambi&eacute;n como e-learning, est&aacute;n enfocadas en la educaci&oacute;n a distancia, tanto para escolares como para universitarios, aunque tambi&eacute;n est&aacute;n las de posgrado. Ejemplo de ellas son Crehana, Campus Romeroo el mismo BlackBoard.</p>\r\n<div class=\"content_gpt_caja5\">\r\n<div id=\"gpt_caja5\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja5\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"4\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>5. Plataformas de comercio electr&oacute;nico</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">La explosi&oacute;n del e-commerce a ra&iacute;z de la pandemia volc&oacute; a m&aacute;s compradores a las plataformas que ya exist&iacute;an como Linio, aunque tambi&eacute;n abri&oacute; paso a otras nuevas como Platanitos que pudo mirar m&aacute;s all&aacute; de los zapatos gracias a la virtualidad.</p>\r\n<h3 class=\"story-contents__header\"><strong>6. Plataformas bancarias</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Las entidades financieras han logrado establecer interesantes modelos de plataformas digitales que hoy permiten realizar diferentes operaciones sin salir de casa.</p>\r\n<h3 class=\"story-contents__header\"><strong>7. Plataformas de pago</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Al igual que las entidades financieras, las plataformas de pago como FPay o <a href=\"https://pagalo.pe/\" target=\"_blank\" rel=\"noopener\">Pagalo.pe</a> tambi&eacute;n permitieron que la virtualidad contribuya a facilitar diferentes operaciones monetarias que antes tomaban tiempo y dinero.</p>\r\n</section>\r\n</div>\r\n</div>",
+        "description": null,
+        "created": "2023-05-14T17:44:42Z"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 5,
+    "fields": {
+        "title": "3 ¿Qué es una plataforma digital y qué tipos existen?",
+        "category": 1,
+        "image": "",
+        "content": "<div id=\"contenedor\" class=\"story-contents__content  \" data-index=\"0\">\r\n<div style=\"min-height: 172px;\">\r\n<section>\r\n<p class=\"story-contents__font-paragraph \"><strong>Si con la aparici&oacute;n del </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>Internet</strong></a><strong> muchas plataformas digitales empezaron el despertar de un interesante mercado de soluciones en l&iacute;nea, con el estallido de la </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>pandemia</strong></a><strong>, su utilidad cobr&oacute; m&aacute;s importancia y, hoy en d&iacute;a, son muchos los espacios virtuales que ayudaron a lograr una mejor convivencia con la educaci&oacute;n o el trabajo a distancia.</strong></p>\r\n<div class=\"content_gpt_caja3\">\r\n<div id=\"gpt_caja3\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja3\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<blockquote class=\"story-contents__blockquote\"><strong>M&Aacute;S INFORMACI&Oacute;N: </strong><a href=\"https://gestion.pe/economia/empresas/ocho-de-cada-diez-peruanos-se-conectan-a-internet-desde-un-celular-noticia/\"><strong>Ocho de cada diez peruanos se conectan a internet desde un celular</strong></a></blockquote>\r\n<p class=\"story-contents__font-paragraph \">Y es que las plataformas digitales o virtuales, como se&ntilde;alan en el documento &ldquo;Plataformas digitales y competencia&rdquo; desarrollado por la OECD, son <em>&ldquo;infraestructuras digitales que posibilitan la interacci&oacute;n entre dos o m&aacute;s grupos o partes&rdquo;</em>, por lo que <em>&ldquo;se posicionan como intermediarios que re&uacute;nen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos f&iacute;sicos&rdquo;</em>.</p>\r\n<p class=\"story-contents__font-paragraph \"><strong>TIPOS DE PLATAFORMAS</strong></p>\r\n<div class=\"content_gpt_inline\">\r\n<div id=\"gpt_inline\" data-ads-name=\"/28253241/gestion/web/post/tendencias/inline\" data-ads-dimensions=\"[[1,1]]\" data-bloque=\"3\" data-ads-dimensions-m=\"[[1,1]]\"></div>\r\n</div>\r\n<p class=\"story-contents__font-paragraph \">Bajo esa definici&oacute;n, algunos ejemplos de plataformas digitales son las redes sociales, los sitios web de comercio electr&oacute;nico o e-commerce, los motores de b&uacute;squeda, entre otros, pero en el 2015, el Parlamento Europeo identific&oacute; tres principales modelos de negocio de las plataformas digitales:</p>\r\n<h3 class=\"story-contents__header\"><strong>1. Modelo por suscripci&oacute;n</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios pagan por la prestaci&oacute;n de un servicio. Por ejemplo, los usuarios de Netflix, Disney+, HBO Max o Spotify pagan una cuota &ndash;mensual o anual&ndash; para acceder a pel&iacute;culas o m&uacute;sica.</p>\r\n<div class=\"content_gpt_caja4\">\r\n<div id=\"gpt_caja4\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja4\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>2. Modelo con publicidad</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios acceden al servicio de manera gratuita debido a que la plataforma se mantiene con los ingresos que genera la publicidad. Youtube y Facebook son un ejemplo, al igual que otras plataformas en las que los usuarios pueden consultar los contenidos en forma gratuita pero est&aacute;n expuestos a la publicidad.</p>\r\n<figure><picture><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 360px)\" data-srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 639px)\" data-srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><img class=\"lazy story-contents__image w-full o-cover loaded\" style=\"--aspect-ratio: 1200/650;\" src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" alt=\"Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)\" width=\"1200\" height=\"650\" data-src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /></picture>\r\n<figcaption class=\"story-contents__caption\">\r\n<div>Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)</div>\r\n</figcaption>\r\n</figure>\r\n<h3 class=\"story-contents__header\"><strong>3. Modelo con acceso</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los creadores de contenido o de aplicaciones les pagan a las plataformas para llegar a los usuarios finales. Por ejemplo, App Store es una tienda digital donde los creadores pueden colocar sus aplicaciones para llegar a los usuarios de iOS, y lo mismo sucede con Play Store o Google Play</p>\r\n<p class=\"story-contents__font-paragraph \">Pero, debido a que las necesidades de las personas son diferentes y necesitan ser satisfechas desde distintos frentes, tambi&eacute;n existen otros tipos de clasificaciones para las plataformas digitales. As&iacute; tenemos:</p>\r\n<h3 class=\"story-contents__header\"><strong>4. Plataformas educativas</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Conocidas tambi&eacute;n como e-learning, est&aacute;n enfocadas en la educaci&oacute;n a distancia, tanto para escolares como para universitarios, aunque tambi&eacute;n est&aacute;n las de posgrado. Ejemplo de ellas son Crehana, Campus Romeroo el mismo BlackBoard.</p>\r\n<div class=\"content_gpt_caja5\">\r\n<div id=\"gpt_caja5\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja5\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"4\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>5. Plataformas de comercio electr&oacute;nico</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">La explosi&oacute;n del e-commerce a ra&iacute;z de la pandemia volc&oacute; a m&aacute;s compradores a las plataformas que ya exist&iacute;an como Linio, aunque tambi&eacute;n abri&oacute; paso a otras nuevas como Platanitos que pudo mirar m&aacute;s all&aacute; de los zapatos gracias a la virtualidad.</p>\r\n<h3 class=\"story-contents__header\"><strong>6. Plataformas bancarias</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Las entidades financieras han logrado establecer interesantes modelos de plataformas digitales que hoy permiten realizar diferentes operaciones sin salir de casa.</p>\r\n<h3 class=\"story-contents__header\"><strong>7. Plataformas de pago</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Al igual que las entidades financieras, las plataformas de pago como FPay o <a href=\"https://pagalo.pe/\" target=\"_blank\" rel=\"noopener\">Pagalo.pe</a> tambi&eacute;n permitieron que la virtualidad contribuya a facilitar diferentes operaciones monetarias que antes tomaban tiempo y dinero.</p>\r\n</section>\r\n</div>\r\n</div>",
+        "description": null,
+        "created": "2023-05-14T17:44:42Z"
+    }
+},
+{
+    "model": "core.post",
+    "pk": 6,
+    "fields": {
+        "title": "5 ¿Qué es una plataforma digital y qué tipos existen?",
+        "category": 1,
+        "image": "",
+        "content": "<div id=\"contenedor\" class=\"story-contents__content  \" data-index=\"0\">\r\n<div style=\"min-height: 172px;\">\r\n<section>\r\n<p class=\"story-contents__font-paragraph \"><strong>Si con la aparici&oacute;n del </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>Internet</strong></a><strong> muchas plataformas digitales empezaron el despertar de un interesante mercado de soluciones en l&iacute;nea, con el estallido de la </strong><a href=\"https://gestion.pe/noticias/internet/\"><strong>pandemia</strong></a><strong>, su utilidad cobr&oacute; m&aacute;s importancia y, hoy en d&iacute;a, son muchos los espacios virtuales que ayudaron a lograr una mejor convivencia con la educaci&oacute;n o el trabajo a distancia.</strong></p>\r\n<div class=\"content_gpt_caja3\">\r\n<div id=\"gpt_caja3\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja3\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<blockquote class=\"story-contents__blockquote\"><strong>M&Aacute;S INFORMACI&Oacute;N: </strong><a href=\"https://gestion.pe/economia/empresas/ocho-de-cada-diez-peruanos-se-conectan-a-internet-desde-un-celular-noticia/\"><strong>Ocho de cada diez peruanos se conectan a internet desde un celular</strong></a></blockquote>\r\n<p class=\"story-contents__font-paragraph \">Y es que las plataformas digitales o virtuales, como se&ntilde;alan en el documento &ldquo;Plataformas digitales y competencia&rdquo; desarrollado por la OECD, son <em>&ldquo;infraestructuras digitales que posibilitan la interacci&oacute;n entre dos o m&aacute;s grupos o partes&rdquo;</em>, por lo que <em>&ldquo;se posicionan como intermediarios que re&uacute;nen a diferentes usuarios como clientes, anunciantes, prestadores de servicios, productores, proveedores y hasta objetos f&iacute;sicos&rdquo;</em>.</p>\r\n<p class=\"story-contents__font-paragraph \"><strong>TIPOS DE PLATAFORMAS</strong></p>\r\n<div class=\"content_gpt_inline\">\r\n<div id=\"gpt_inline\" data-ads-name=\"/28253241/gestion/web/post/tendencias/inline\" data-ads-dimensions=\"[[1,1]]\" data-bloque=\"3\" data-ads-dimensions-m=\"[[1,1]]\"></div>\r\n</div>\r\n<p class=\"story-contents__font-paragraph \">Bajo esa definici&oacute;n, algunos ejemplos de plataformas digitales son las redes sociales, los sitios web de comercio electr&oacute;nico o e-commerce, los motores de b&uacute;squeda, entre otros, pero en el 2015, el Parlamento Europeo identific&oacute; tres principales modelos de negocio de las plataformas digitales:</p>\r\n<h3 class=\"story-contents__header\"><strong>1. Modelo por suscripci&oacute;n</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios pagan por la prestaci&oacute;n de un servicio. Por ejemplo, los usuarios de Netflix, Disney+, HBO Max o Spotify pagan una cuota &ndash;mensual o anual&ndash; para acceder a pel&iacute;culas o m&uacute;sica.</p>\r\n<div class=\"content_gpt_caja4\">\r\n<div id=\"gpt_caja4\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja4\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"3\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>2. Modelo con publicidad</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los usuarios acceden al servicio de manera gratuita debido a que la plataforma se mantiene con los ingresos que genera la publicidad. Youtube y Facebook son un ejemplo, al igual que otras plataformas en las que los usuarios pueden consultar los contenidos en forma gratuita pero est&aacute;n expuestos a la publicidad.</p>\r\n<figure><picture><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 360px)\" data-srcset=\"https://gestion.pe/resizer/fMICYhm3-fDdyi0w53YbQfpvI94=/280x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><source class=\"lazy\" srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" media=\"(max-width: 639px)\" data-srcset=\"https://gestion.pe/resizer/gg5p0OIlVpt_Xyy2WbuKUi3VL5o=/482x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /><img class=\"lazy story-contents__image w-full o-cover loaded\" style=\"--aspect-ratio: 1200/650;\" src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" alt=\"Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)\" width=\"1200\" height=\"650\" data-src=\"https://gestion.pe/resizer/qjhebOyH4epNOusnwlAv8LS5si0=/620x0/smart/filters:format(jpeg):quality(75)/cloudfront-us-east-1.images.arcpublishing.com/elcomercio/MEBTW44DNBDPBGQBCKVIJJFFWA.jpg\" data-was-processed=\"true\" /></picture>\r\n<figcaption class=\"story-contents__caption\">\r\n<div>Las redes sociales, como Facebook, son un claro ejemplo de lo que es una plataforma virtual y de la influencia que ejercen en las personas (Foto: Pixabay)</div>\r\n</figcaption>\r\n</figure>\r\n<h3 class=\"story-contents__header\"><strong>3. Modelo con acceso</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Cuando los creadores de contenido o de aplicaciones les pagan a las plataformas para llegar a los usuarios finales. Por ejemplo, App Store es una tienda digital donde los creadores pueden colocar sus aplicaciones para llegar a los usuarios de iOS, y lo mismo sucede con Play Store o Google Play</p>\r\n<p class=\"story-contents__font-paragraph \">Pero, debido a que las necesidades de las personas son diferentes y necesitan ser satisfechas desde distintos frentes, tambi&eacute;n existen otros tipos de clasificaciones para las plataformas digitales. As&iacute; tenemos:</p>\r\n<h3 class=\"story-contents__header\"><strong>4. Plataformas educativas</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Conocidas tambi&eacute;n como e-learning, est&aacute;n enfocadas en la educaci&oacute;n a distancia, tanto para escolares como para universitarios, aunque tambi&eacute;n est&aacute;n las de posgrado. Ejemplo de ellas son Crehana, Campus Romeroo el mismo BlackBoard.</p>\r\n<div class=\"content_gpt_caja5\">\r\n<div id=\"gpt_caja5\" data-ads-name=\"/28253241/gestion/web/post/tendencias/caja5\" data-ads-dimensions-m=\"[[300, 100], [320, 50], [300, 50], [320, 100], [300, 250]]\" data-bloque=\"4\" data-prebid-enabled=\"true\"></div>\r\n</div>\r\n<h3 class=\"story-contents__header\"><strong>5. Plataformas de comercio electr&oacute;nico</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">La explosi&oacute;n del e-commerce a ra&iacute;z de la pandemia volc&oacute; a m&aacute;s compradores a las plataformas que ya exist&iacute;an como Linio, aunque tambi&eacute;n abri&oacute; paso a otras nuevas como Platanitos que pudo mirar m&aacute;s all&aacute; de los zapatos gracias a la virtualidad.</p>\r\n<h3 class=\"story-contents__header\"><strong>6. Plataformas bancarias</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Las entidades financieras han logrado establecer interesantes modelos de plataformas digitales que hoy permiten realizar diferentes operaciones sin salir de casa.</p>\r\n<h3 class=\"story-contents__header\"><strong>7. Plataformas de pago</strong></h3>\r\n<p class=\"story-contents__font-paragraph \">Al igual que las entidades financieras, las plataformas de pago como FPay o <a href=\"https://pagalo.pe/\" target=\"_blank\" rel=\"noopener\">Pagalo.pe</a> tambi&eacute;n permitieron que la virtualidad contribuya a facilitar diferentes operaciones monetarias que antes tomaban tiempo y dinero.</p>\r\n</section>\r\n</div>\r\n</div>",
+        "description": null,
+        "created": "2023-05-14T17:44:42Z"
+    }
+},
+{
+    "model": "core.favorite",
+    "pk": 10,
+    "fields": {
+        "post": 1,
+        "user": 1
+    }
+},
+{
+    "model": "core.favorite",
+    "pk": 15,
+    "fields": {
+        "post": 1,
+        "user": 2
+    }
+},
+{
+    "model": "core.favorite",
+    "pk": 16,
+    "fields": {
+        "post": 2,
+        "user": 2
+    }
+},
+{
+    "model": "easy_thumbnails.source",
+    "pk": 1,
+    "fields": {
+        "storage_hash": "f9bde26a1556cd667f742bd34ec7c55e",
+        "name": "images/Plataformas-digitales.jpeg",
+        "modified": "2023-05-14T17:48:42.183Z"
+    }
+},
+{
+    "model": "easy_thumbnails.source",
+    "pk": 2,
+    "fields": {
+        "storage_hash": "f9bde26a1556cd667f742bd34ec7c55e",
+        "name": "images/ayudaG.jpg",
+        "modified": "2023-05-14T17:52:49.210Z"
+    }
+}
+]
